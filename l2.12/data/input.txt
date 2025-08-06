@@ -1,0 +1,8 @@
+This is a test file.
+It contains multiple lines.
+Some lines contain the word Go.
+Some lines contain nothing special.
+go is awesome.
+Here is another line.
+One more with the word go.
+End of file.
