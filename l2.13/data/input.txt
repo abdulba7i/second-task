@@ -1,0 +1,7 @@
+title,author,year,genre
+"1984",George Orwell,1949,Dystopian
+"To Kill a Mockingbird",Harper Lee,1960,Fiction
+"Brave New World",Aldous Huxley,1932,Dystopian
+"The Hobbit"	"J.R.R. Tolkien"	1937	Fantasy
+"Fahrenheit 451",Ray Bradbury,1953,Dystopian
+"Animal Farm",George Orwell,1945,Satire
